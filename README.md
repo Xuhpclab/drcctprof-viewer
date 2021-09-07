@@ -41,6 +41,6 @@ There are three typical ways to open a file in pprof/DrCCTProf formats.
 
 ### Use case
 
-#### Gif Demo
+#### A demo to explore DrCCTProf Viewer
 
 ![demo](https://raw.githubusercontent.com/Xuhpclab/drcctprof-viewer/main/res/demo.gif)
