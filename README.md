@@ -1,7 +1,8 @@
 # DrCCTProf Viewer README
 
-DrCCTProf Viewer can show interactive views for users to go through the profiling data. In addition, it also provides users an easy way to jump from the profiling result to source code.
-Now DrCCTProf Viewer can open two Protocol buffers formats data: [pprof format](https://github.com/google/pprof/blob/master/proto/profile.proto) and [drcctprof format](https://github.com/Xuhpclab/DrCCTProf).
+DrCCTProf Viewer is an extension atop VSCode.
+DrCCTProf Viewer can show multiple interactive views for users to go through the profiling data collecte by various tools. Moreover, it supports an easy way to corelate profiling results with program source codes.
+Currently, DrCCTProf Viewer supports two formats of profiling data: [pprof format](https://github.com/google/pprof/blob/master/proto/profile.proto) and [drcctprof format](https://github.com/Xuhpclab/DrCCTProf).
 
 
 ## Usage
