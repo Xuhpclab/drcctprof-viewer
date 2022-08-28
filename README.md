@@ -1,3 +1,5 @@
+# *** This extension is deprecated. Please use https://www.easyview.dev/ ***
+
 # DrCCTProf Viewer README
 
 DrCCTProf Viewer is an extension atop Vscode.
